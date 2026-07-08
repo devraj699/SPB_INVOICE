@@ -1,0 +1,15 @@
+venv/
+
+__pycache__/
+
+*.pyc
+
+.env
+
+spb_invoice.db
+
+node_modules/
+
+dist/
+
+.vscode/
